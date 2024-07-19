@@ -1,6 +1,8 @@
 # 2023년 제4회 K-디지털 트레이닝 해커톤
 ## 주제: 기상청 API를 활용한 닻끌림(주묘현상) 예측
 - 맡은 역할: 데이터 전처리, 딥러닝 모델 구성
+- 기술 스택
+  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ## 컨텐츠 설명
 - **Hackathon**: Spring Boot 4 기반의 web service 구현 파일
 - **data**: 딥러닝 모델 구현에 사용된 데이터들
